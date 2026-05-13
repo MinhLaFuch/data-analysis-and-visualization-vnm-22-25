@@ -1,0 +1,5 @@
+Ticker,Best Epoch,RMSE (VNĐ),MAPE (%),Model File
+VNM,5/25,2.49,3.56,results/VNM/best_bilstm_vnm.keras
+FPT,15/35,9.06,6.61,results/FPT/best_bilstm_fpt.keras
+HPG,7/27,1.28,4.12,results/HPG/best_bilstm_hpg.keras
+VIC,11/31,16.1,15.04,results/VIC/best_bilstm_vic.keras
